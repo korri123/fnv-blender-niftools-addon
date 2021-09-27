@@ -13,4 +13,4 @@ This add-on is developed and tested for **Blender 2.92**.
 - In import under armature settings, you can check `NV Weapon Skeleton Fix` to fix bones facing the wrong axis due to a bug in the orientation guessing algorithm in the blender add-on.
 
 # Installation
-- Download the .zip source code of this repository and select the .zip in the install add-on panel in Blender.
+- Download the file in [Releases](https://github.com/korri123/fnv-blender-niftools-addon/releases/tag/4) and select the .zip in the install add-on panel in Blender.
